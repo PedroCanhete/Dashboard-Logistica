@@ -4,21 +4,21 @@ Este projeto tem como objetivo analisar o desempenho logístico da empresa Herme
 
 Através de dashboards interativos no Power BI, foi possível visualizar os principais gargalos logísticos e identificar oportunidades de melhoria na operação.
 
-### Objetivos do Projeto
 
+### Objetivos do Projeto
 - Medir o índice de entregas dentro e fora do prazo.
 - Avaliar a eficiência logística por canal e por estado.
 - Calcular o tempo médio de entrega por região.
 - Apoiar a tomada de decisões estratégicas na área de logística.
 
-### Ferramentas e Tecnologias
 
+### Ferramentas e Tecnologias
 - **Power BI** – Construção dos dashboards e análise visual.
 - **Python (Jupyter Notebook)** – Organização do raciocínio e estruturação analítica.
 - **Base de dados fictícia** – [Neste link do caellum](https://caelum-online-public.s3.amazonaws.com/2791-looker-studio-visualizacao-dados/base-de-dados-Hermex.xlsx)
 
-### Etapas do projeto
 
+### Etapas do projeto
 - Compreensão da base de dados e definição das métricas principais.
 - Estruturação das perguntas a serem respondidas com os dados.
 - Desenvolvimento de visualizações segmentadas por:
