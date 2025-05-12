@@ -27,3 +27,5 @@ Através de dashboards interativos no Power BI, foi possível visualizar os prin
   - Estado e região
   - Tempo médio de entrega
 - Interpretação dos resultados e construção de insights acionáveis.
+
+### Veja a Dashboard Completa [Aqui](https://app.powerbi.com/groups/me/reports/37815084-4345-4460-bee4-086a2ea67010/8a7f9b820b21da693a0c?experience=power-bi)
